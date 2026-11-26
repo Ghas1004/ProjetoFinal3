@@ -2,7 +2,7 @@
 
 ## O que foi alterado
 - Adicionadas funções serverless em `api/categorias.js` e `api/categorias/[id].js`.
-- Mantido o `server.js` para execução local.
+- Mantido o `servidor-local.js` para execução local.
 - Mantidas as operações existentes de listar, cadastrar, editar e excluir categorias.
 - O arquivo `.env` real não está incluído no ZIP por segurança.
 

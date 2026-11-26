@@ -2,13 +2,16 @@
   "name": "aula-19",
   "version": "1.0.0",
   "description": "Loja do Ze - gerenciamento de categorias",
-  "main": "server.js",
+  "main": "api/categorias.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node servidor-local.js"
   },
   "keywords": [],
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "dotenv": "^18.0.3"
   }
