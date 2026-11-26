@@ -9,9 +9,6 @@
   "keywords": [],
   "license": "ISC",
   "type": "commonjs",
-  "engines": {
-    "node": "26.x"
-  },
   "dependencies": {
     "dotenv": "^18.0.3"
   }
